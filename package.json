@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@types/node": "^18.11.18",
+    "form-data": "^4.0.0",
+    "node-fetch": "^3.3.0"
+  },
+  "name": "lzt-api",
+  "repository": "Eld3rly/LZT-API",
+  "version": "1.1.0",
+  "main": "./dist/index.js",
+  "exports": "./dist/index.js",
+  "author": "Eld3rly",
+  "license": "MIT",
+  "type": "module"
+}
