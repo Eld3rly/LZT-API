@@ -43,3 +43,8 @@ At the moment, the library is under development, so not all methods available in
 Also, at the moment, there is no support for all [market methods](https://github.com/NztForum/Lolzteam-Public-API/blob/master/docs/market_api.markdown), because the author does not have access to it yet, but it will be added soon.
 
 The library documentation is also under development, but you can always participate in its development by simply creating a PR with documentation for the method.
+
+```
+бля пмните мне куда нибудь если эта хуйня кому-то нужна eld3rly.ru
+тогда возможно допишу
+```
